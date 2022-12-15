@@ -1,3 +1,5 @@
+'use client';
+
 import Image from "next/image";
 import { SpTheme } from "../components/theme";
 import styles from "./page.module.css";
